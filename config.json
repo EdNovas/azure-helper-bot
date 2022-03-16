@@ -47,6 +47,15 @@
           "version": "latest"
         }
       },
+      "Ubuntu 20.04": {
+        "os": "Ubuntu 20.04",
+        "image_reference": {
+          "publisher": "canonical",
+          "offer": "0001-com-ubuntu-server-focal",
+          "sku": "20_04-lts",
+          "version": "latest"
+        }
+      },
       "CentOs 7.5": {
         "os": "CentOs 7.5",
         "image_reference": {
